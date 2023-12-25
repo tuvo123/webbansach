@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/hoc-tro/index.php/feed/">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/hoc-tro/index.php/feed/";
+		</script>
+
+		<p>You are being redirected to <a href="/hoc-tro/index.php/feed/">/hoc-tro/index.php/feed/</a></p>
+	</body>
+</html>
