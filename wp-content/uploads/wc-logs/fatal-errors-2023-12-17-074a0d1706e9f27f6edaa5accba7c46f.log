@@ -1,0 +1,2 @@
+2023-12-17T01:00:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\webbansach\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\OrderConfirmation\TotalsWrapper.php on line 41
+
